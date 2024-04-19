@@ -526,7 +526,7 @@ footer .item3{
     display: none;
 }
 main .slidmoods{
-     height: 5vh;
+     height: 6vh;
 }
 .sliden li a{
      font-size: 1rem;
@@ -552,7 +552,7 @@ main .slidmoods{
         margin-bottom: 0;
         margin-left: auto;
         margin-right: auto;
-        height: 30vh;
+        height: 35vh;
     }
     .main .item .goo img{
         width: 100vw;
