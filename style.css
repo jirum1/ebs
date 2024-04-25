@@ -283,10 +283,10 @@ mask: linear-gradient(rgb(0, 0, 0), white  ,white ,rgb(0, 0, 0) );
         transform: translatex(0);
     }
     40%,70%{
-        transform: translatex(-100%);
+        transform: translatex(-100.18%);
     }
     85%,100%{
-        transform: translatex(-200%);
+        transform: translatex(-202%);
     }
 }
 .main .item2 iframe{
@@ -352,8 +352,7 @@ mask: linear-gradient(rgb(0, 0, 0), white  ,white ,rgb(0, 0, 0) );
     letter-spacing: -1px;
     padding: 15px 8px 15px 0;
     line-height: 1.8;
-    text-wrap: wrap;
-    width: 90%;
+    font-size: 1.1rem;
 }
 .item2{
     grid-area: asid;
@@ -730,12 +729,12 @@ footer{
                 gap: 10px;
             }
             .main .item{
-                width: 100%;
+                width: 95%;
                 margin-top: 0;
                 margin-bottom: 0;
                 margin-left: auto;
                 margin-right: auto;
-                height: 30vh;
+                height: 35vh;
             }
             .main .item .goo img{
                 width: 100vw;
